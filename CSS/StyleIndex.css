@@ -1,0 +1,156 @@
+.div_text{
+    padding: 15%;
+    width: 100%;
+
+}
+.div_text1{
+    border-left: 20px solid #3D66F7;
+    background-color: #FBF3F1;
+    position: absolute;
+    width: 600px;
+    height: 120px;
+    left: 10%;
+    top: 200px;
+    font-size: 40px;
+}
+.text1 {
+    font-weight: 600;
+    padding-left: 35px;
+    width: 100%;
+}
+.cor {
+    background-color: rgba(231, 178, 164, 15%);
+}
+.div_text2{
+    border-right: 20px solid #3D66F7;
+    background-color: #FBF3F1;
+    position: absolute;
+    width: 610px;
+    height: 125px;
+    right: 10%;
+    top: 370px;
+    font-size: 28px;
+}
+.text2{
+    font-weight: 600;
+    padding-right: 45px;
+}
+
+.div_beneficios{
+    margin-top: 2%;
+    margin-left: 6.5%;
+    width: 86%;
+    height: 325px;
+}
+.div_cafe, .div_wi-fi, .div_restaurante, .div_esta, .div_gambiarra{
+    background-color: #FFFFFF;
+    border-bottom: 15px solid black;
+    width: 50px;
+    padding: 100px;
+    margin: 50px 0 0 65px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 80%;
+    background-position-y: 55%;
+}
+.div_cafe {
+    background-image: url(../Imagens/TelaPrincipal/Cafe.png);
+}
+.div_wi-fi {
+    background-image: url(../Imagens/TelaPrincipal/Wi-fi.png);
+}
+.div_restaurante{
+    background-image: url(../Imagens/TelaPrincipal/restaurante.png);
+}
+.div_esta {
+    background-image: url(../Imagens/TelaPrincipal/estacionamento.png);
+    float: left;
+}
+
+
+@media screen and (max-width: 1086px) {
+    .div_cafe, .div_wi-fi, .div_restaurante, .div_esta, .div_gambiarra{
+        width: 100px;
+        padding: 200px;
+        margin: 100px 0 0 95px;
+        float: left;
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-size: 110%;
+        background-position-y: 60%;
+    }
+    .div_text{
+        padding: 12%;
+
+    }
+    .div_text1{
+        border-left: 10px solid #3D66F7;
+        background-color: #FBF3F1;
+        position: absolute;
+        width: 300px;
+        height: 39px;
+        left: 10%;
+        top: 200px;
+        font-size: 40px;
+    }
+    .text1 {
+        font-weight: 600;
+        padding-left: 35px;
+        width: 100%;
+        font-size: small;
+    }
+    .div_text2{
+        border-right: 10px solid #3D66F7;
+        background-color: #FBF3F1;
+        position: absolute;
+        width: 300px;
+        height: 60px;
+        right: 10%;
+        top: 250px;
+        font-size: 28px;
+    }
+    .text2{
+        font-weight: 600;
+        padding-right: 20px;
+        font-size: small;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    .div_text{
+        padding: 15%;
+
+    }
+    .div_text1{
+        border-left: 7px solid #3D66F7;
+        background-color: #FBF3F1;
+        position: absolute;
+        width: 160px;
+        height: 30px;
+        left: 10%;
+        top: 280px;
+        font-size: 40px;
+    }
+    .text1 {
+        font-weight: 600;
+        padding-left: 15px;
+        width: 100%;
+        font-size: x-small ;
+    }
+    .div_text2{
+        border-right: 7px solid #3D66F7;
+        background-color: #FBF3F1;
+        position: absolute;
+        width: 180px;
+        height: 45px;
+        right: 10%;
+        top: 325px;
+        font-size: 28px;
+    }
+    .text2{
+        font-weight: 600;
+        padding-right: 10px;
+        font-size: x-small;
+    }
+}

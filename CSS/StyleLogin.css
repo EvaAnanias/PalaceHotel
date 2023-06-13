@@ -1,0 +1,50 @@
+.div_text {
+    border-left: 8px solid #5A65CC;
+    border-right: 8px solid #5A65CC;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.text1 {
+    font-size: 40px;
+}
+
+.text2 {
+    color: #5A65CC;
+    font-size: 20px;
+}
+.login {
+    position: relative;
+    width: 40%;
+    margin-top: 90px;
+    margin-left: 30%;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+.size{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 10%;
+    width: 90%;
+}
+.input_a{
+    position: relative;
+    width: 85%;
+}
+.input_b{
+    margin: 0;
+    width: 85%;
+}
+.senha{
+    margin-bottom: 4px;
+}
+.a{
+    background-color: #fff7f5;
+}
+.botton{
+    background-color: black;
+    margin-top: 8%;
+    width: 85%;
+}
+

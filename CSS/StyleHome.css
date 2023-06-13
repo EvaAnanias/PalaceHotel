@@ -1,0 +1,29 @@
+* {
+    background-color: rgba(231, 178, 164, 15%);
+}
+.espaco{
+    padding-right: 62px;
+    color: black;
+}
+.a {
+    text-decoration: none;
+}
+.bold {
+    font-weight: bolder;
+}
+.form{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+}
+.altura {
+    padding-top: 20px;
+    background-color: #FBF3F1;
+}
+.cor {
+    background-color: #FBF3F1;
+}
+.espacamento {
+    padding-top: 4%;
+    background-color: #FBF3F1;
+}

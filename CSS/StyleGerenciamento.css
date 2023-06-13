@@ -1,0 +1,48 @@
+* {
+    background-color: rgba(231, 178, 164, 15%);
+}
+.nav{
+    padding: 0%;
+    background-color: #000000;
+    z-index: 999;
+}
+
+.color{
+    background-color: #000;
+}
+.menu{
+    background-color: #000;
+}
+.textos{
+    padding-right: 142px;
+    background-color: #000;
+    font-weight: 500;
+}
+.imagem{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 117px;
+    background-color: #000;
+}
+.contato{
+    padding-right: 62px;
+
+}
+.tag-a{
+    text-decoration: underline;
+    color: #5A65CC;
+}
+.form{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 5%;
+}
+.font {
+    background-color: #FFFFFF;
+}
+.pesquisa {
+    padding-top: 4%;
+    padding-left: 4%;
+    background-color: #FFFFFF;
+}

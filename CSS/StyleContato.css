@@ -1,0 +1,28 @@
+.div_texto1 {
+    background-color: #FBF3F1;
+    border-left: 10px solid #3D66F7;
+    margin-left: 10%;
+    width: 35%;
+    margin-top: 5%;
+    font-size: 25px;
+    height: 250px;
+}
+.text {
+    text-decoration: none;
+    color: black;
+}
+p, label, .cor {
+    background-color: #FBF3F1;
+    font-weight: 600;
+}
+.div_contato {
+    background-color: #FBF3F1;
+    margin-top: 7%;
+    margin-left: 5%;
+    float: left;
+    width: 35%;
+}
+.header_todo {
+    padding-bottom: 10%;
+    width: 99%;
+}
